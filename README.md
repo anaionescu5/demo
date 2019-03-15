@@ -11,7 +11,11 @@ last update
 
 
 
+<<<<<<< HEAD
 the last final final finalest on master 
+=======
+the last final on very bad 
+>>>>>>> very-bad-branch
 
 
 
